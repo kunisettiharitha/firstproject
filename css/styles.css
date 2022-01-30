@@ -1,0 +1,25 @@
+body{
+  background-color: pink;
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 30%;
+
+}
+img{
+  height: 100px;
+}
+h2 {
+background-color: white;
+ color: #66BFBF;
+ width: 25%;
+}
+h4 {
+  background-color: white;
+   color: #66BFBF;
+   width: 15%;
+}
